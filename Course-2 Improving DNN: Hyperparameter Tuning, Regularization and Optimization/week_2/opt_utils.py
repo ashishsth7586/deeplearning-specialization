@@ -5,6 +5,7 @@ import scipy.io
 import sklearn
 import sklearn.datasets
 
+
 def sigmoid(x):
     """
     Compute the sigmoid of x
